@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CCs SoulVeganlicious",
+  "name": "CCs SoulVeganlicious Online order app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +8,39 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "CCs_logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192", 
+      "purpose": "maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "CCs_logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512", 
+      "purpose": "maskable"
     }
   ],
+
+  "screenshots": [
+    {
+      "src": "ScreenShot1.png",
+      "sizes": "1280x720", 
+      "type": "image/png"
+    },
+    {
+      "src": "ScreenShot2.png",
+      "sizes": "1280x720", 
+      "type": "image/png"
+    },
+    {
+      "src": "ScreenShot3.png",
+      "sizes": "1280x720", 
+      "type": "image/png"
+    }   
+  ],
+
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#32CD32",
   "background_color": "#ffffff"
 }
