@@ -1,6 +1,7 @@
 {
   "short_name": "CCs SoulVeganlicious",
   "name": "CCs SoulVeganlicious Online order app",
+  "lang": "en", 
   "icons": [
     {
       "src": "favicon.ico",
@@ -38,9 +39,9 @@
       "type": "image/png"
     }   
   ],
-
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#32CD32",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff", 
+  "orientation": "any"
 }
