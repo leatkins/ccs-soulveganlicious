@@ -4,9 +4,7 @@ self.oninstall = function(){
         cache.addAdll([
             '/', 
             'index.html', 
-            'offline.html', 
-            'offline.css', 
-            'BethesdaConnection.png', 
+            
         ])
         .then(function() {
             console.log('cached!')

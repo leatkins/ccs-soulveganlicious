@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.coverImage{
+  background-image:url("images/CCs_CoverImage3.png");
+  background-size: cover; 
+  
+}
+.logo {
+  padding-top:40%
+}
+.beginBtn {
+ padding-top:90px;
+ padding-bottom:10%
+}
+.coverText{
+  color: white;
+}
