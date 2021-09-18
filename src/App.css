@@ -38,17 +38,23 @@
 }
 
 .coverImage{
-  background-image:url("images/CCs_CoverImage3.png");
+  background-image:url("images/CCs_CoverImage5.jpg"); 
+  background-color:seagreen; 
   background-size: cover; 
   
 }
 .logo {
-  padding-top:40%
+  padding-top:20%
 }
 .beginBtn {
  padding-top:90px;
- padding-bottom:10%
+ padding-bottom:50%
 }
 .coverText{
+  color: white;
+}
+
+.noDecoration{
+  text-decoration: none; 
   color: white;
 }
